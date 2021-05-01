@@ -27,7 +27,15 @@ jobs:
           wget https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt -O 2.txt
           sed -i '/^!/d' 1.txt 2.txt
           sed -i '/^！/d' 1.txt 2.txt
-          cat 1.txt 2.txt | sort -u > ad.txt
+          cat 1.txt 2.txt | sort -u > 3.txt
+          grep '||' 3.txt | grep -v / | grep -v '\$' |grep -v '*'| awk -F '^' '{print$1}' | uniq -d > out.txt
+          m=$(cat out.txt)
+          for i in $m;do
+          a=$(echo "$i" | tr -d '|')
+          sed -i "/${a}/d" 3.txt
+          echo "${i}^" >> 3.txt
+          done
+          sort 3.txt -o ad.txt
           sed -i "1i !version: ${time}" ad.txt
           git add ad.txt
           git config user.name "771073216"
