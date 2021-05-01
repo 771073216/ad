@@ -25,9 +25,9 @@ jobs:
           day=$(date +%Y%m%d)
           wget https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt -O 1.txt
           wget https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt -O 2.txt
-          sed -i '/^!/d' 1.txt 2.txt
-          sed -i '/^！/d' 1.txt 2.txt
-          cat 1.txt 2.txt | sort -u > 3.txt
+          cat 1.txt 2.txt | sort -u -o 3.txt
+          sed -i '/^!/d' 3.txt
+          sed -i '/^！/d' 3.txt
           grep '||' 3.txt | grep -v / | grep -v '\$' |grep -v '*'| awk -F '^' '{print$1}' | uniq -d > out.txt
           m=$(cat out.txt)
           for i in $m;do
