@@ -1,4 +1,4 @@
-!version: 20210430090747
+!version: 20210501091050
 ###Ad_windows
 ###Layeraa2
 ###MsnDialog.ad
@@ -779,7 +779,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 /^(\S+\.)?ad(s?[\d]+|m|s)?\./
 /^(\S+\.)?ad[0-9]{3,}m.com$/
 /^(\S+\.)?adservice\.google\./
-/^(\S+\.)?advert/
+/^(\S+\.)?advert/$dnstype=~A
 /^(\S+\.)?affiliat(es?[0-9a-z]*?|ion[0-9\-a-z]*?|ly[0-9a-z\-]*?)\./
 /^(\S+\.)?aj[0-9]{4,}.online$/
 /^(\S+\.)?ali2[a-z]\.xyz$/
