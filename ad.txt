@@ -1,4 +1,4 @@
-!version: 20210501212124
+!version: 20210502091546
 ###Ad_windows
 ###Layeraa2
 ###MsnDialog.ad
@@ -1431,6 +1431,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 /sitead*
 /sitejs/clys.js
 /sitejs/content/clyscontent.js
+/skin/common.htm
 /skin/know/*
 /skin/tb12/*$domain=firefox.com.cn|firefoxchina.cn
 /slade.js
@@ -3490,8 +3491,6 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||tbcdn.cn^*/click_track.js
 @@||tcss.qq.com^$domain=55you.com
 @@||tdx.com.cn/images/*ad$~third-party
-@@||technews.tw/www/delivery/
-@@||technews.tw^$generichide
 @@||tenpay.com/v2/res/pub/cps/main/bottom_ad.js
 @@||tenpay.com^*?ADTAG=
 @@||tf.360.cn/e/wb?
@@ -16290,6 +16289,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aphidsclee.com^
 ||aphookkensidah.pro^
 ||aphycolourses.info^
+||api-access.pangolin-sdk-toutiao.com/api/ad^
 ||api-access.pangolin-sdk-toutiao.com^
 ||api-ad.kajicam.com^
 ||api-ad.sensetime.com/sensear/v2/sdk/*$third-party
@@ -31854,6 +31854,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jewellerywoolsqueeze.com^
 ||jewhouca.net^
 ||jewishcontentnetwork.com^
+||jf.10010.com^
 ||jf71qh5v14.com^
 ||jfduv7.com^
 ||jfgcxj.com^
@@ -53099,6 +53100,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www3.strsoftware.com^
 ||www3s.ing.be^
 ||www5.jkjjkj.top^
+||www5.technews.tw^
 ||www8.xitek.com^
 ||www9.enet.com.cn^
 ||www91.intel.co.jp^
