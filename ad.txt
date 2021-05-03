@@ -1,4 +1,4 @@
-!version: 20210502091546
+!version: 20210503091049
 ###Ad_windows
 ###Layeraa2
 ###MsnDialog.ad
@@ -709,7 +709,6 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 /91_banner/*
 /91ad.
 /91ad_
-/9377[a-z]{2}\.com$/
 /96090/*
 /960x*0.gif
 /960x90.
@@ -764,7 +763,6 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 /\(com\?\d+/$third-party
 /\/1xhtml\?\d+/$third-party
 /\/ad\d*\./$script
-/^(\S+\.)?([a-z\d\-]+\.)?(?!xn--)[^\.\/]{26,}\.(com|net|cn)(\.cn)?$/
 /^(\S+\.)?(webstats?|swebstats?|mywebstats?)\./
 /^(\S+\.)?11599[\da-z]{2,20}\.com$/
 /^(\S+\.)?333[1-9]{2}[0-9]{2}\.com?$/
@@ -772,7 +770,9 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 /^(\S+\.)?61677[\da-z]{0,20}\.com$/
 /^(\S+\.)?6699[0-9]\.top$/
 /^(\S+\.)?777\-?partners?\.(net|com)$/
+/^(\S+\.)?9377[a-z0-9]{2}\.com$/$dnstype=A
 /^(\S+\.)?[0-9a-f]{15,}\.com$/
+/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/
 /^(\S+\.)?[0-9a-z]{16,}\.xyz$/
 /^(\S+\.)?[c-s]ads(abs|abz|ans|anz|ats|atz|del|ecs|ecz|ims|imz|ips|ipz|kis|kiz|oks|okz|one|pms|pmz)\.com/
 /^(\S+\.)?abie[0-9]+\.top$/
@@ -780,17 +780,20 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 /^(\S+\.)?ad[0-9]{3,}m.com$/
 /^(\S+\.)?adservice\.google\./
 /^(\S+\.)?affiliat(es?[0-9a-z]*?|ion[0-9\-a-z]*?|ly[0-9a-z\-]*?)\./
+/^(\S+\.)?afgr[\d]{1,2}\.com$/
 /^(\S+\.)?aj[0-9]{4,}.online$/
 /^(\S+\.)?ali2[a-z]\.xyz$/
 /^(\S+\.)?analytics(\-|\.)/
 /^(\S+\.)?counter(\-|\.)/
 /^(\S+\.)?d[\d]+\.sina(img)?(\.com)?\.cn/
+/^(\S+\.)?delivery([\d]{2}|dom|modo).com$/
 /^(\S+\.)?e7[0-9]{2,4}\.(net|com)?$/
 /^(\S+\.)?g[1-4][0-9]{8,9}\.com?$/
 /^(\S+\.)?hg[0-9]{4,5}\.com?$/
 /^(\S+\.)?pixels?\./
 /^(\S+\.)?s?metrics\./
 /^(\S+\.)?sax[\dns]?\.sina\.com\.cn/
+/^(\S+\.)?syma[a-z]\.cn$/
 /^(\S+\.)?tongji\./
 /^(\S+\.)?toolbar\./
 /^(\S+\.)?track(ing)?\./
@@ -905,7 +908,6 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 /adzone*
 /aeiou/*$domain=discuss.com.hk|uwants.com
 /afd/entry
-/afgr[\d]{1,2}\.com$/
 /agetsou.js
 /aipai/player/game_video/videoAdvert_
 /ajds/*
@@ -1018,7 +1020,6 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 /data/cache/myad-
 /data/sspvideomap.
 /dealer1.gif$domain=oldpig.org
-/delivery([\d]{2}|dom|modo).com$/
 /detai*_baidu.
 /detail_gg.js
 /dhfun_ad/*
@@ -1468,7 +1469,6 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 /sxgg/12.js
 /sxgg/13
 /sygygg/*
-/syma[a-z]\.cn$/
 /ta.
 /tagapp/hotvideo/*
 /tan.js
@@ -2851,7 +2851,6 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||acgbenzi.com//dist/images/top.png
 @@||acgdraw.com/ad$xmlhttprequest
 @@||acgvideo.com/*/ad/$xmlhttprequest,object-subrequest,domain=bilibili.com
-@@||ad.10010.com^
 @@||ad.12306.cn^$elemhide,subdocument,domain=95306.cn
 @@||ad.3.cn/ads/mgets?$domain=jd.com
 @@||ad.8maple.ru/8ads.gif
@@ -2866,7 +2865,6 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||ad.siemens.com.cn^
 @@||ad.thsi.cn/siteHome/
 @@||ad.unimhk.com/show.php?$domain=mnighthk.net
-@@||ad2.uoocuniversity.com^
 @@||ad4.on.cc/web/www/delivery/ajs.php
 @@||ad4.on.cc/web/www/delivery/fl.js
 @@||ad4.on.cc/web/www/delivery/spc.php
@@ -2879,13 +2877,13 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||adnet.qq.com^$~third-party
 @@||adnxs.com/ast/static/$domain=outlook.live.com
 @@||ads.amazon^
-@@||ads.askgamblers.com^
-@@||ads.com^
 @@||ads.instacart.com^
+@@||ads.microsoft.com^
 @@||ads.pinterest.com^
 @@||ads.spotify.com^
 @@||ads.taboola.com^
 @@||ads.tiktok.com^
+@@||ads.twitter.com^
 @@||adsense.woso.cn^$~third-party
 @@||adsinstant.com/bingfeng/gm$domain=bingfeng.tw
 @@||adsynth-ofx-quotewidget-prod.herokuapp.com/api/1
@@ -2916,7 +2914,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||aliyun.com/nocaptcha/analyze.js
 @@||aliyun.com/scratchCardSlide/analyze.jsonp?
 @@||alotof.software/wp-content/themes/alosss/ads.php
-@@||analytics.amplitude.com^
+@@||analytics.itunes.apple.com^
 @@||ananas.chaoxing.com^*video/ad/
 @@||android.bugly.qq.com/rqd/async?aid=47fefd70-7c99-4821-b989-25e49187e5e2$app=com.bilibili.app.blue
 @@||anime1.me/ads.js
@@ -3292,7 +3290,6 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||meizitu.net/mfiles/m.js$domain=m.mzitu.com
 @@||meizu.coapi.moji.com^
 @@||meizu.com/fileserver/ad/img/
-@@||metrics.torproject.org^
 @@||mi.cn^
 @@||miaozhen.com^*/m.suning.
 @@||minigame.qq.com^
@@ -3468,6 +3465,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||static.atm.youku.com^*.swf
 @@||static.hdslb.com/ad-images/$image
 @@||stats.gov.cn^
+@@||stats.uptimerobot.com^
 @@||steamcn.com/source/plugin/steamcn_gift/template/images/*steam.png
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.
 @@||storage.live.com^
@@ -3562,7 +3560,6 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||wgun.net^$elemhide
 @@||wholehk.com^$generichide
 @@||widget.intercom.io^
-@@||widget.myrentacar.me^
 @@||widget.weibo.com^
 @@||wl.jd.com/wl.js
 @@||worldssl.net/wp-content/themes/mts_ad_sense/js/ads.js
@@ -10655,6 +10652,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||*log.droid4x.cn^
 ||*mistat*.xiaomi.com^
 ||*serror*.wo.com.cn^
+||*serror*.wo.com.cn^$dnstype=A|CNAME
 ||*tsdk.vivo.com.cn^
 ||*us*watcab*.blob.core.windows.net^
 ||*xav.*/guang/*.gif
