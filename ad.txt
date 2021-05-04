@@ -1,4 +1,4 @@
-!version: 20210503091049
+!version: 20210504090544
 ###Ad_windows
 ###Layeraa2
 ###MsnDialog.ad
@@ -16568,6 +16568,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||applog.reader.qq.com^
 ||applog.uc.cn^
 ||applogapi.autohome.com.cn^
+||applogios.uc.cn^
 ||applovin*.*^
 ||applovin.com^
 ||appmetrica.yandex.com^
@@ -21563,6 +21564,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||copvigvmzj.com^
 ||copycarpenter.com^
 ||copyrightaccesscontrols.com^
+||coral-task.uc.cn^
 ||coralogix.com^
 ||corateencountry.pro^
 ||core-cen-54.com^
@@ -26778,6 +26780,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||founseezb.cn^
 ||fountainwimp.com^
 ||fouptauk.com^
+||fourier.alibaba.com^
 ||fourier.taobao.com^
 ||fourmtagservices.appspot.com^
 ||fourmtagservices.com^
@@ -29876,6 +29879,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||huibaihe.net/js/dddd.js
 ||huibaihe.net/static/730-580.
 ||huichenbz.com^
+||huichuan-mc.sm.cn^
 ||huichuan.sm.cn^
 ||huician.cn^
 ||huidakms.com.cn^
@@ -30410,7 +30414,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ifeve.com/wp-content/uploads/*/cachekit
 ||ifkdy.com/layer/layer.js
 ||iflow.minfo.baofeng.net^
-||iflow.uczzd.cn^
 ||iflow.uczzd.com.cn^
 ||iflyad.*.openstorage.cn^
 ||ifnyop.priceline.com^
@@ -30545,7 +30548,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||image.p4p.sogou.com^
 ||image.qj175.com^
 ||image.ttyouma.cn^
-||image.zzd.sm.cn^
 ||image66.top2099.com^
 ||imageadv.
 ||imageadvantage.net^
@@ -35123,7 +35125,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||m.tiebaimg.com/timg?wapp^*imgtype=0$image
 ||m.trb.com^
 ||m.u4q2.cn^
-||m.uczzd.cn^
 ||m.uocb.cn^
 ||m.uw45o.cn^
 ||m.vaxyz.com^
@@ -46544,6 +46545,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stat.lizhi.fm^p=com.tencent.qqlive
 ||stat.m.360.cn^
 ||stat.m.jd.com^
+||stat.m.jj.cn^
 ||stat.matichon.co.th^
 ||stat.media^
 ||stat.moevideo.net^
@@ -55600,6 +55602,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zzcgw.cn^
 ||zzcmjn.com^
 ||zzcw.office-mall.net^
+||zzd.sm.cn^
 ||zzd6.com^
 ||zzdaojia.com/mjs/
 ||zzdb5p4upiug.com^
