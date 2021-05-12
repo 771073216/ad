@@ -1,4 +1,4 @@
-!version: 20210511090723
+!version: 20210512090851
 ###Ad_windows
 ###Layeraa2
 ###MsnDialog.ad
@@ -576,6 +576,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 &adr=
 (com?$script,third-party
 *$app=com.miui.systemAdSolution
+*(*$third-party
 *-stats.jpush.cn^
 *.com/css/showfloatdiv^
 */?tzbilibili
@@ -1131,6 +1132,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 /hdpv.
 /heituad/*
 /hengfu.js
+/hm.js^$third-party
 /hndxweb/push$popup,third-party
 /homead*
 /hostinger-promote-$domain=nodkey.xyz
@@ -2852,6 +2854,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||acgbenzi.com//dist/images/top.png
 @@||acgdraw.com/ad$xmlhttprequest
 @@||acgvideo.com/*/ad/$xmlhttprequest,object-subrequest,domain=bilibili.com
+@@||ad-gone.com^
 @@||ad.12306.cn^$elemhide,subdocument,domain=95306.cn
 @@||ad.3.cn/ads/mgets?$domain=jd.com
 @@||ad.8maple.ru/8ads.gif
@@ -2945,7 +2948,6 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||baidu.com/cse/search?$domain=16xx8.com
 @@||baidu.com/customer_search/api/
 @@||baidu.com/h.js$domain=19lou.com|baomihua.com|ihome99.com
-@@||baidu.com/hm.js$domain=dwz.cn
 @@||baidu.com/location/ip?$domain=dominos.com.cn|tanmizhi.com
 @@||baidu.com/share/count?
 @@||baidu.com^*&cb=BaiduSuggestion.
@@ -13370,6 +13372,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||a.78yx.net^
 ||a.91nets.cn^
 ||a.91zhongkao.com^
+||a.ac.qq.com^
 ||a.armystar.com^
 ||a.artistasdigitais.net^
 ||a.aspnet.tech^
@@ -19660,6 +19663,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||caomindianying.com^
 ||cap-cap-pop.com^
 ||capacitygrid.com^
+||capcap621.cn^
 ||caphaiks.com^
 ||caphyon-analytics.com^
 ||capodannoinversilia.com^
@@ -25833,6 +25837,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||erp.qwic.nl^
 ||err.ifengcloud.ifeng.com^
 ||err.taobao.com^
+||errlog.umeng.com^
 ||error.videonow.ru^
 ||errors.snackly.co^
 ||errsensordiscourse.com^
@@ -30360,6 +30365,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||huovernment.club^
 ||huoyan.tv/yb/img/*.gif
 ||hupsouft.net^
+||hupu-nba.com^
 ||hupu.com^*/stream.js
 ||hupuzhibo.cn^
 ||hur.cn/AhurD/*.gif
@@ -30474,6 +30480,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hz1.lanmei80.com^
 ||hz3137.com^
 ||hz3137.com^$third-party
+||hzbrcajp.cn^
 ||hzbxm.com^
 ||hzdhr.cn^
 ||hzhfhkj.cn^
@@ -33181,7 +33188,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jwvwak1a.com^
 ||jwz.3conline.com^
 ||jx.618g.com/js/tongji.js$domain=jx.618g.com
-||jx.cn^
 ||jx.cn^$third-party
 ||jx.la/ll^
 ||jx.lyhanda.com^
@@ -34421,6 +34427,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lflucky.com^
 ||lfnzmp.bestdeco.nl^
 ||lfov.net^
+||lfsenmei.com^
 ||lfstmedia.com^
 ||lftqch650apz.com^
 ||lftxali.fancyapi.com^
@@ -35284,6 +35291,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lr96.top^
 ||lraa.xiaoniutui.com^
 ||lrdnuu.shopee.co.th^
+||lrevfhmp.cn^
 ||lrswl.com^
 ||lrtzrm.aufsafari.de^
 ||ls.l.qq.com^
@@ -38986,6 +38994,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nicanor-the.com^
 ||nice.kuaizq.com^
 ||nice3aiea.com^
+||nicearticle.cc^
 ||nicelabel.cc^
 ||nicequest.com^
 ||nicheadmiringadverse.com^
@@ -42898,6 +42907,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qgss8.com^
 ||qgumjp.joins.com^
 ||qgzskk.sunset-hill.jp^
+||qh.la/post.php
+||qh.la/static/js/nrwzl.js
+||qh.la/static/js/true.js
 ||qhaif.com^
 ||qhcksjb.com/static/js/lunbo.js
 ||qhdanxdyeuzdio.com^
@@ -43939,6 +43951,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||report-uri.io^
 ||report-zt.allmusic.com^
 ||report.appmetrica.yandex.net^
+||report.cms.qq.com^
 ||report.meituan.com^
 ||report.novinky.cz^
 ||report.qcloud.com^
@@ -55087,6 +55100,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xunkhuczqnuf.com^
 ||xunlaile.com^
 ||xunleige.com/js/functionx.js
+||xunleiii.com^
 ||xunsu.cc/js/indexbottom.js
 ||xunyibaike.com^
 ||xunyugong.xyz/sitejs/xunyugong.js
