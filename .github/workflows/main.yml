@@ -35,10 +35,13 @@ jobs:
           sed -i "/${a}/d" 3.txt
           echo "${i}^" >> 3.txt
           done
-          sort 3.txt -o ad.txt
+          sort 3.txt -o 4.txt
+          if ! diff -q ad.txt 4.txt; then
+          mv 4.txt ad.txt
           sed -i "1i !version: ${time}" ad.txt
           git add ad.txt
           git config user.name "771073216"
           git config user.email "771073216@qq.com"
           git commit -m "$day" -a
           git push
+          fi
