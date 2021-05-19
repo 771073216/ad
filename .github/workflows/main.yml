@@ -36,6 +36,7 @@ jobs:
           echo "${i}^" >> 3.txt
           done
           sort 3.txt -o 4.txt
+          sed -i "1d" ad.txt
           if ! diff -q ad.txt 4.txt; then
           mv 4.txt ad.txt
           sed -i "1i !version: ${time}" ad.txt
