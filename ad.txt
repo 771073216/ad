@@ -1,4 +1,4 @@
-!version: 20210519103446
+!version: 20210521062018
 ###Ad_windows
 ###Layeraa2
 ###MsnDialog.ad
@@ -16555,6 +16555,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.zhuti.xiaomi.com/app/v9/uipages$replace=/adInfo//
 ||api.zol.com^
 ||api1.888zy.cn^
+||api16-access-sg.pangle.io/api/ad^
 ||api2.play.cn^
 ||api64.com^
 ||apic.in/mmd.gif
@@ -30626,6 +30627,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ibpxl.net^
 ||ibryte.com^
 ||ibtfbbtjktu.com^
+||ibytedtos.com/obj/ad-pattern-sg^
 ||ic-live.com^
 ||ic.ksosoft.com^
 ||ic.snssdk.com/*/article/information/
@@ -30752,6 +30754,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||iezbleqt.com^
 ||if-yn.com^
 ||if.mingxing.qq.com^
+||iface2.iqiyi.com/control/3.0^
+||iface2.iqiyi.com/views_pop/3.0^
 ||ifacelog.iqiyi.com^
 ||ifactz.com^
 ||ifacus.akivasuperfoods.com^
@@ -31832,6 +31836,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||intgr.net^
 ||intimidatingclinchwily.com^
 ||intimlife.net^
+||intl.iqiyi.com/control/feature_switch?
 ||intopicmedia.com^
 ||intouch.schlesingergroup.com^
 ||intrapromotion.com^
@@ -38083,6 +38088,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mseeru.faz.net^
 ||msettesc.top^
 ||msg-2.me^
+||msg-intl.qy.net^
 ||msg.c002.ottcn.com^
 ||msg.douyu.com^
 ||msg.eclicks.cn^
