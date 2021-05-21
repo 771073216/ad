@@ -1,4 +1,4 @@
-!version: 20210521062018
+!version: 20210522061748
 ###Ad_windows
 ###Layeraa2
 ###MsnDialog.ad
@@ -3093,6 +3093,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||down.cc/down/js/ad.js
 @@||download.jumpw.com^
 @@||dqzsteel.com/Website/Image/guanggao/
+@@||dw.iask.com.cn^
 @@||dwstatic.com/b=amkit
 @@||dxcloud.episerver.net^
 @@||dzz8.com/public/ptcms/*.js?g=$domain=m.daizhuzai.com
@@ -3214,6 +3215,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|881903.com|appledaily.com|linetv.tw|mytvsuper.com|nextmedia.com|now.com|tvb.com|udn.com|xuite.net
 @@||img.ads.tvb.com^
 @@||inoreader.com^$genericblock,generichide
+@@||insideruser.microsoft.com^
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com
 @@||ipip.net/ping.php?
 @@||ipstatp.com/business_center/dist/img/ad-$domain=tiktok.com
@@ -3274,6 +3276,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||loc.map.baidu.com/sdk.php$app=com.baidu.BaiduMap
 @@||log.mmstat.com^
 @@||logcg.content-delivery.top/wp-content/plugins/bwp-minify/min/?f=
+@@||login-ishare.iask.com.cn^
 @@||loltmcheck.com/js/ads.js
 @@||ltzn.9377.com^
 @@||luoo.net/ad/
@@ -3432,6 +3435,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||serve.netsh.org^$elemhide
 @@||serving-sys.com/serving/adServer.bs?$popup,domain=hongkongcard.com
 @@||seselah.com^$generichide
+@@||settings-win.data.microsoft.com^
 @@||sexylove.club^$generichide
 @@||seyise8.com^$generichide
 @@||seyy66.space^$generichide
@@ -3470,6 +3474,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||stat.v-56.com/player 56.com##div.qf_float
 @@||static.atm.youku.com^*.swf
 @@||static.hdslb.com/ad-images/$image
+@@||static3.iask.cn^
 @@||stats.gov.cn^
 @@||stats.uptimerobot.com^
 @@||steamcn.com/source/plugin/steamcn_gift/template/images/*steam.png
@@ -3559,6 +3564,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||ware.shop.jd.com^$genericblock,generichide
 @@||webmail.smartlinkcorp.com/dotrans_20160909.php
 @@||websetnet.com^$generichide
+@@||wechat.ishare.iask.com.cn^
 @@||weibo.com/adshow/
 @@||weibo.com/api/weipan/getAds
 @@||weibo.com/share/share.php$generichide
@@ -12532,7 +12538,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||60cjstatic.wow-classic.com/assets/application-*.js
 ||61.10.2.86/dev/xopen.php
 ||61.152.223.15^
-||61.160.200.
 ||61.164.108.184^*.gif
 ||61.164.108.184^*.swf
 ||61.174.50.211^
@@ -18675,6 +18680,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||blablablaaa.xyz^
 ||black6adv.com^
 ||blackforce.club^
+||blackhole.m.jd.com^
 ||blackname.biz^
 ||blacknessversiondan.com^
 ||blackpics.net^
@@ -20915,7 +20921,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cloudpsvn.com^
 ||cloudpush.iqiyi.com^
 ||cloudservice*.kingsoft-office-service.com^
-||cloudservice22.kingsoft-office-service.com^
 ||cloudtracer101.com^
 ||clrstm.com^
 ||cls7.theushuaiaexperience.com^
@@ -26072,7 +26077,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||events.avantisvideo.com^
 ||events.brightline.tv^
 ||events.chaordicsystems.com^
-||events.data.microsoft.com^
 ||events.demoup.com^
 ||events.gfe.nvidia.com^
 ||events.guesttoguest.com^
@@ -26859,6 +26863,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||firefoxchina.cn^*_couplet
 ||firefoxchina.cn^*_topbanner
 ||firescorrelationprodigy.com^
+||firevent.jd.com^
 ||firewoodnativewoodlands.com^
 ||fireworkssetstill.com^
 ||firingair.com^
@@ -33589,7 +33594,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kingpolo.com.cn^
 ||kingshape.top^
 ||kingsnug.cn/Uploads/vod/2019-05-25/5ce964f0c66e0.jpg
-||kingsoft.com^
 ||kingwam.com^
 ||kinley.com^
 ||kinlivme.cn^
@@ -39500,6 +39504,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nvwqqlroj.com^
 ||nvysyzemuvac.com^
 ||nw-rail-03.com^
+||nw-umwatson.events.data.microsoft.com^
 ||nw5.jkjjkj.top^
 ||nwfhalifax.com^
 ||nwk6in.cn^
@@ -49610,7 +49615,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tek-tek-trek.com^
 ||tel-tel-fie.com^
 ||tele.trafficmanager.net^
+||telegram-cn.org^
+||telegram-vip.com^
+||telegramcn.org^
 ||telegramspun.com^
+||telegramsvip.com^
+||telegrcn.org^
 ||telemetric.dk^
 ||telemetrics.klaviyo.com^
 ||telemetry.api.wmcdp.io^
@@ -51814,6 +51824,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||umtrack*.com^
 ||umv0.com^
 ||umv5.com^
+||umwatsonc.events.data.microsoft.com^
 ||umwvvq.rentals.com^
 ||umwyfqgsg.com^
 ||umxwew.hellobello.com^
@@ -52284,6 +52295,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||v.sixiuwl.cn^
 ||v.szpaopao.com^
 ||v.u22l.cc^
+||v.weixiaov.club/qx6/php/check.php
 ||v.xinshide.cn^
 ||v00087.com^
 ||v1-feed.idreamsky.com^
@@ -54071,6 +54083,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wqpeltrb.com^
 ||wqpoqalozlciw.com^
 ||wqsph.net^
+||wqxp.online/qx6/php/qqcheck.php
 ||wqzyt.net^
 ||wr.yiyouliao.com^
 ||wrapper.lemde.fr^
