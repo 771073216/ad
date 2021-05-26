@@ -1,4 +1,4 @@
-!version: 20210526062003
+!version: 20210527062350
 ###Ad_windows
 ###Layeraa2
 ###MsnDialog.ad
@@ -13807,6 +13807,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aafanke.cc^
 ||aafdcq.com^
 ||aafuck.xyz^
+||aaid.umeng.com^
 ||aakkzzz.com^
 ||aam.gumtree.com.au^
 ||aamapi.com^
@@ -17003,7 +17004,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||assembledscout.com^
 ||asset2.uniwa.cn/assets/custom/csstock$image
 ||assetize.com^
-||assets.ckjr001.com^
 ||assets.garron.me^
 ||assets.servedby-buysellads.com^
 ||assets.sheetmusicplus.com^
@@ -23585,8 +23585,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dftoutiao.com^
 ||dfvdkx.gismeteo.ua^
 ||dfw.bakerbrothersplumbing.com^
-||dg.k.jd.com/ksdk/mid-page.html$app=com.ss.android.article.news
-||dg.k.jd.com^
 ||dgafgadsgkjg.top^
 ||dgaoz.com^
 ||dgfggy.com^
@@ -33576,7 +33574,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||keoofp.gulfnews.com^
 ||kepkirrlcozb.com^
 ||kepler-37b.com^
-||kepler.jd.com^
 ||keqglr.panvel.com^
 ||keqii.com^
 ||keran.hl.cn^
@@ -33888,7 +33885,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kpirog.com^
 ||kpr2exp21.com^
 ||kpshx.douguo.com^
-||kpstaticbj.wx.ckjr001.com^
 ||kpxbctywsa.com^
 ||kqaasz.instreet.com.tr^
 ||kqchxa.denizbutik.com^
@@ -43374,7 +43370,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qualityassura.biz^
 ||qualityofeve.biz^
 ||qualitypageviews.com^
-||qualtrics.com^
 ||quan7.cc^
 ||quanbailing.com^
 ||quancee.top^
@@ -46529,6 +46524,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||siteimproveanalytics.io^
 ||siteinfo.libero.it^
 ||siteintercept.allegiancetech.com^
+||siteintercept.qualtrics.com^
 ||sitelabweb.com^
 ||sitelife.ehow.com^
 ||sitelinktrack.com^
