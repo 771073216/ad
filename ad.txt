@@ -1,4 +1,5 @@
-!version: 20210530063054
+!version: 20210530210834
+!Title: custom adblock list
 ###Ad_windows
 ###Layeraa2
 ###MsnDialog.ad
@@ -4299,6 +4300,7 @@ bing.com##.OpInNwWndw
 bing.com##.b_ad
 bing.com##.b_adBottom
 bing.com##DIV.sb_adsNv2,li.b_ad,div.OpInNwWndw
+bing.com##li.ad_sc
 bingfeng.tw##.wow-ad-link
 bingfeng.tw##div[style="position: fixed; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 999;"]
 bioon.com###ad_tb
