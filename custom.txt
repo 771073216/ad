@@ -1,0 +1,2 @@
+bing.com##img.b_adChoice
+bing.com##li.ad_sc
