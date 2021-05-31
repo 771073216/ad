@@ -1,4 +1,4 @@
-!version: 20210531132414
+!version: 20210601064357
 !Title: custom adblock list
 ###Ad_windows
 ###Layeraa2
@@ -1212,9 +1212,6 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 /js/fumeiti.js
 /js/gg0.js
 /js/ggtop.js
-/js/index/footer.js
-/js/index/index.js
-/js/index/list.js
 /js/index_adfloat.js
 /js/js/css.js
 /js/jsstyle-$third-party
