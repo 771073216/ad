@@ -1,4 +1,4 @@
-!version: 20210531063306
+!version: 20210531132341
 !Title: custom adblock list
 ###Ad_windows
 ###Layeraa2
@@ -16469,7 +16469,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.comm.miui.com/calendar^
 ||api.coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
 ||api.coolapk.com/v6/feed/detail?$replace=/entities//
-||api.coolapk.com/v6/search?$replace=/hotSearch//
 ||api.cupid.iqiyi.com^
 ||api.cupid.ptqy.gitv.tv^
 ||api.cupid.qiyi.com^
@@ -32302,7 +32301,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||iwpneu.eneba.com^
 ||iwqzrm.com^
 ||iwstats.com^
-||iwx.mail.qq.com^
 ||ixcris.com^
 ||ixhparehw.com^
 ||ixiaa.com^
@@ -41891,6 +41889,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||polhvf.bootbarn.com^
 ||policemanciderpeeks.com^
 ||policityseriod.info^
+||policy.jd.com/m/log^
 ||policy.jd.com^
 ||policy.video.iqiyi.com^
 ||polishshinyspectacles.com^
@@ -45240,6 +45239,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sats.mailbrew.com^
 ||saturalolk.club^
 ||saturdayloathe.com^
+||saturn.jd.com/log^
 ||saub27i3os.com^
 ||sauceheirloom.com^
 ||saucesenseless.com^
