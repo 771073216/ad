@@ -1,4 +1,4 @@
-!version: 20210601064357
+!version: 20210606062630
 !Title: custom adblock list
 ###Ad_windows
 ###Layeraa2
@@ -19478,7 +19478,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||c.t98u8f.com^
 ||c.tctyb.cn^
 ||c.tieba.baidu.com/c/p^
-||c.tieba.baidu.com/c/s^
 ||c.tvsou.com^
 ||c.uaa.iqiyi.com^
 ||c.v-meng.org^
