@@ -1,4 +1,4 @@
-!version: 20210609061557
+!version: 20210610061704
 !Title: custom adblock list
 ###Ad_windows
 ###Layeraa2
@@ -3526,6 +3526,7 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 @@||tracker.eu.org^
 @@||tracking-protection.cdn.mozilla.net^
 @@||tracking.epicgames.com^
+@@||trackings.post.japanpost.jp^
 @@||trip-jam.com/resources/js/adsense.js
 @@||trip.cmbchina.com^$generichide
 @@||tsyndicate.com/sdk/v1/n.js$domain=hpjav.tv
