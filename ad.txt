@@ -1,4 +1,4 @@
-!version: 20210611061424
+!version: 20210613061420
 !Title: custom adblock list
 ###Ad_windows
 ###Layeraa2
@@ -16512,7 +16512,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.chushou.tv/open/baidu^
 ||api.comm.miui.com/calendar^
 ||api.coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
-||api.coolapk.com/v6/feed/detail?$replace=/entities//
 ||api.cupid.iqiyi.com^
 ||api.cupid.ptqy.gitv.tv^
 ||api.cupid.qiyi.com^
@@ -16762,6 +16761,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||applog.musical.ly^
 ||applog.reader.qq.com^
 ||applog.uc.cn^
+||applog.ucdns.uc.cn^
 ||applogapi.autohome.com.cn^
 ||applogios.uc.cn^
 ||applovin*.*^
@@ -28484,6 +28484,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||giwzywnxnk.com^
 ||gixmo.dk^
 ||gj500.com^
+||gjapplog.uc.cn^
 ||gjh111.cn^
 ||gjhkyh.4fresh.ru^
 ||gjhpwp.skychang.kr^
