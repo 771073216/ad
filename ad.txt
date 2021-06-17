@@ -1,4 +1,4 @@
-!version: 20210617061437
+!version: 20210618061505
 !Title: custom adblock list
 ###Ad_windows
 ###Layeraa2
@@ -4904,6 +4904,10 @@ csdn.net##.recommend-ad-box
 csdn.net##.recommend-item-box[data-track-click*="http"]:not([data-track-click*=".csdn."])
 csdn.net##.right-item[data-track-click*="http"]:not([data-track-click*=".csdn."])
 csdn.net##a[href="//gitbook.cn/new/gitchat/activity?utm_source=csdnblog1"]
+csdn.net$$a[class="app-bt-sure"]
+csdn.net$$div[class="btn_open_app_prompt_div"]
+csdn.net$$div[class="weixin-shadowbox wap-shadowbox"]
+csdn.net$$span[class="feed-Sign-span"]
 csdn.net,itboth.com,iteye.com,itkeyword.com###ad_pop
 css88.com###sup-post-a,.entry-content-top,.banner-con,.amazeui-link,.textwidget
 csshello.com###topgg
@@ -23734,6 +23738,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dh810.com^
 ||dh820.com^
 ||dh956.com^
+||dhapp.qianhaitech.cn/api/ad^
 ||dhb8psqhvz9a.com^
 ||dhboldoduti.com^
 ||dhdgkj.com^
@@ -24341,6 +24346,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||doglobal.net^
 ||dogwrite.com^
 ||dohillright.com^
+||doit.kccqgj.cn^
 ||doja.worten.es^
 ||dojomojo.com^
 ||dojomojo.ninja^
@@ -28972,7 +28978,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||granify.com^
 ||grapefruitlifestyle.com^
 ||grapeshot.co.uk^
-||graph.facebook.com^
 ||grapheffect.com^
 ||graphinsider.com^
 ||graterfleeconduct.com^
@@ -44798,6 +44803,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rmoeu.mercury.sogou.com^
 ||rmpad.imtt.qq.com^
 ||rmqygg2zv24y.com^
+||rms.meituan.com/diancan/api/queryAdBoard
 ||rmtag.com^
 ||rmvrpc.habi-unni.com^
 ||rmw.jdburl.com^
