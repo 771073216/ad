@@ -1,4 +1,4 @@
-!version: 20210620061348
+!version: 20210621061401
 !Title: custom adblock list
 ###Ad_windows
 ###Layeraa2
@@ -51883,6 +51883,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tuicool.com/images/upload/aliyun
 ||tuifish.com^
 ||tuigoo.com^
+||tuiguang.*^
 ||tuiguang.baidu.com$third-party
 ||tuiguang.meitu.com^
 ||tuijian.baidu.com^
