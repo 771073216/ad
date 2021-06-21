@@ -1,4 +1,4 @@
-!version: 20210621061401
+!version: 20210622061435
 !Title: custom adblock list
 ###Ad_windows
 ###Layeraa2
@@ -1034,7 +1034,6 @@ $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biqug
 /diyad*
 /dm78ad/*
 /dmap.gif
-/doubleclick*
 /downloads/nmgg.mp4
 /dreamads/*
 /dulian*js
