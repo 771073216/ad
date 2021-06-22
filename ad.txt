@@ -1,4 +1,4 @@
-!version: 20210622061435
+!version: 20210623061445
 !Title: custom adblock list
 ###Ad_windows
 ###Layeraa2
@@ -11662,7 +11662,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||27vckaccbto7p761.pro^
 ||28.fyimg.kukuplay.com/plugins/EggModuleV5.1.swf
 ||280dp.com^
-||282l1.cn^
 ||283.laobanfa.com^
 ||285680.com^
 ||2894c9d5b32.com^
@@ -11726,6 +11725,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||2polj.top^
 ||2ptxxjjzpy.com^
 ||2sh8fouhk84h.com^
+||2shol4.cn^
 ||2shouhc.com^
 ||2smt6mfgo.de^
 ||2solo.biz^
@@ -11756,7 +11756,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||30350f.com^
 ||303marketplace.com^
 ||307.cc
-||30ampj.com^
 ||30b9e3a7d7e2b.com^
 ||30sy.com/ucweb/
 ||30yo.xyz^
@@ -12121,7 +12120,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||4affiliate.net^
 ||4ak50p1xo77f.com^
 ||4bb6jls06l.com^
-||4bf5755a252.com^
 ||4c13cac4bb.com^
 ||4c935d6a244f.com^
 ||4cr447ewncl4.com^
@@ -12162,6 +12160,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||4rabettraff.com^
 ||4rt6auqet2rx.com^
 ||4stats.de^
+||4tdbbs.cn^
 ||4u.pl^
 ||4wad.com^
 ||4wnet.com^
@@ -12511,8 +12510,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||5yfi7sy.com^
 ||5yrra.deshuangwang.cn^
 ||5yw028ngxe9x.com^
-||5zi2.top^
-||5zi5.top^
 ||6.cn/coop/pub/getRand.php?
 ||60.190.139.164^
 ||600ad.com^
@@ -12995,7 +12992,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||87mao.com/52
 ||88-baidu.com^
 ||88-sms.com^
-||88.yunqishi.net^
+||88.yunqishi8.com^
 ||880fg.com/css/*.js
 ||880sy.com/Public/js/*_gg.js
 ||88148.com/UpFile/a/2016040849191350.jpg
@@ -14064,7 +14061,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ac0c95f18a59.com^
 ||ac1.786ip.com^
 ||ac1.faxingchina.com^
-||ac1.pingpingw.com^
 ||ac3.msn.com^
 ||ac56.xyz^
 ||ac7d539d732.com^
@@ -14914,9 +14910,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||adplex.media^
 ||adplexo.com^
 ||adplugg.com^
-||adplusplus.fr^
 ||adplxmd.com^
 ||adpm.app.qq.com^
+||adpmbglobal.com^
 ||adpnut.com^
 ||adpolestar.net^
 ||adpon.jp^
@@ -15591,7 +15587,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||afterdownloads.com^
 ||aftjohnanodes.com^
 ||aftv-serving.bid^
-||afy11.net^
 ||afzcqqdhkn.com^
 ||ag.qq.com^
 ||ag1.zuszw.com^
@@ -15649,7 +15644,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||agxclick.com^$popup
 ||agxclick.com^$third-party
 ||agzfxovg.com^
-||agzlxyylf.com^
 ||ah.sina.com.cn/iframe/
 ||ah2.zhangyue.com/zybk/api/pop/index?
 ||ah808.com^
@@ -15911,7 +15905,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||alexametrics.com^
 ||alexandria.marfeelcdn.com^
 ||alfatraffic.com^
-||alflying.date^
 ||alflying.win^
 ||alfynetwork.com^
 ||algopine.com^
@@ -16181,6 +16174,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amountant.club^
 ||amp-error-reporting.appspot.com^
 ||amp.services^
+||ampcr.io^
 ||ampdaisbras.com^
 ||ampleteexis.info^
 ||amplexheter.club^
@@ -16488,6 +16482,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.22lianmeng.com^
 ||api.24kidea.com^
 ||api.557400.com^
+||api.adv.ott.cibntv.net^
 ||api.aixifan.com^
 ||api.anti.wauee.com^
 ||api.appodeal.com/stats
@@ -16743,6 +16738,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||appgo.cn^
 ||appier.net^
 ||appimg.0575bbs.com^
+||appius-dae.com^
 ||appjiagu.
 ||appjiagu.com^
 ||apple.www.letv.com^
@@ -17066,7 +17062,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||assuremath.com^
 ||astancerta.fun^
 ||astat.nikkei.com^
-||aster18cdn.nl^
 ||asterilivestream.com^
 ||asteriresearch.com^
 ||asterpix.com^
@@ -17845,6 +17840,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||baoshuu.com/img/shu.js
 ||baoshuu.com/top/m*.js
 ||baoxian.163.com/$subdocument
+||baoxian28.cn^
 ||baoyatu.cc^
 ||baptisttop1000.com^
 ||baqcpdctexlwgp.com^
@@ -17901,7 +17897,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||baxf.m.shuhuangge.org^
 ||baxt.mobi^
 ||bay.xiawu.com^
-||bayception.org^
 ||bayception.pw^
 ||baycode.cn^
 ||bayfluke.com^
@@ -17914,7 +17909,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||baysexthy.com^
 ||bayunblocked.eu^
 ||baywest.ac^
-||baywttgdhe.download^
 ||bazhigu.com^
 ||bazinga.mse.sogou.com^
 ||baztrack.com^
@@ -18208,6 +18202,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||beastlyaccomplished.com^
 ||beatchucknorris.com^
 ||beatconfessteddy.com^
+||beatingbytes.com^
 ||beatpreservelost.com^
 ||beaubitternessapplication.com^
 ||beaverads.com^
@@ -18432,7 +18427,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bewailindigestionunhappy.com^
 ||bewaslac.com^
 ||bewaycare.com^
-||bewhoyouare.gq^
 ||beyanmaan.com^
 ||beyondcompare.cc^
 ||beyondmeasure.rigoltech.com^
@@ -18864,6 +18858,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bm324.com^
 ||bm999999.com^$popup
 ||bmbaike.cn^
+||bmcm.ml^
 ||bmcm.pw^
 ||bmfeed.ru^
 ||bmgan.com^
@@ -19249,7 +19244,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||btbuckets.com^
 ||btbuluo.com/uploads/*.gif
 ||btcfans.com/template/comiis_lssy/ad/
-||btdciuqcsvjjt.com^
 ||btdx8.com/tmp/
 ||btemegxbnalq.com^
 ||btgxicdivmtv.com^
@@ -19545,7 +19539,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||c.msn.com^
 ||c.netu.tv^
 ||c.ns8d.com^
-||c.panqis.cn^
 ||c.panqishu.com^
 ||c.paypal.com^
 ||c.perlentaucher.de^
@@ -20022,6 +20015,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.0i-i0.com^
 ||cdn.5bong.com^
 ||cdn.adc.eamobile.com^
+||cdn.adsk2.co^
 ||cdn.adstract.com^
 ||cdn.aegins.com^
 ||cdn.app.liuxingyul.cn^
@@ -20046,6 +20040,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.img.liuxingyul.cn^
 ||cdn.imvkan.com^
 ||cdn.jinfu.love/maizhan/js/age.js
+||cdn.komentary.aol.com^
 ||cdn.m.okdd.net^
 ||cdn.moji002.com^
 ||cdn.ndapp.com^
@@ -20532,6 +20527,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||chtntr.com^
 ||chuangjulm.cn^
 ||chuangyixi.com^
+||chuanjiae.cn^
 ||chuanmen.mobi^
 ||chuantu.biz/t2/22/1450961822x1822613148.gif
 ||chuantu.biz^
@@ -22358,6 +22354,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cryptoads.space^
 ||cryptobara.com^
 ||cryptoblocks.site^
+||cryptocoinabout.com^
 ||cryptoloot.pro^
 ||cryptomine.pro^
 ||cryptonote.club^
@@ -22622,6 +22619,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||czechose.com^
 ||czgjhotel.com^
 ||czhcloud.cn^
+||czhongbao.net^
 ||czilladx.com^
 ||czlhgz.com^
 ||czlongle.cn^
@@ -22912,7 +22910,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||d359wjs9dpy12d.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d36eyd5j1kt1m6.cloudfront.net^
-||d36gyu.cn^
 ||d36zfztxfflmqo.cloudfront.net^
 ||d37abonb6ucrhx.cloudfront.net^
 ||d38itq6vdv6gr9.cloudfront.net^
@@ -23043,6 +23040,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dacoloment.pro^
 ||dacounter.com^
 ||dadawm.cc^
+||daddywu.cn^
 ||dadedaxue.com^
 ||dadhuhram.com^
 ||dadi.technology^
@@ -23151,7 +23149,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||darersan.co^
 ||daringprobablywithin.com^
 ||darkenedshrine.com^
-||darking*.tk^
 ||dart.clearchannel.com^
 ||dartoverboardcoupon.com^
 ||dartsirhose.icu^
@@ -23428,7 +23425,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ddns.ne^
 ||ddomm.com^
 ||ddpaowanji.com^
-||ddpxhq.cn^
 ||ddrk.me/ad
 ||ddrrccck.m.qxs.la^
 ||dds.sogua.com^
@@ -23436,7 +23432,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ddskyuu.com^
 ||ddvbjehruuj5y.cloudfront.net^
 ||ddvfoj5yrl2oi.cloudfront.net^
-||ddvqjnbt.com^
 ||ddyingyan.com^
 ||ddynwa.brithotel.fr^
 ||ddzeg.com^
@@ -24615,6 +24610,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||drunkenknowing.com^
 ||drunkersrr.club^
 ||drupalchina.cn/sites/default/files/d
+||drupalupdates.tk^
 ||drvive.lamoda.ru^
 ||drvmy.ats68.cn^
 ||drwkzkncihwygw.com^
@@ -24848,7 +24844,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dy2xcjk8s1dbz.cloudfront.net^
 ||dy886.cn^
 ||dy8c.com/JieShaoBu-secret/uploads/hongbao
-||dyb.jdcbuy.com^
 ||dybee.tv/gg
 ||dybxezbel1g44.cloudfront.net^
 ||dybz*/js/html*.js
@@ -24996,7 +24991,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||e.qq.com^
 ||e.replacementdevicelawsuit.com^
 ||e.rpaulfrank.com^
-||e.shifen.com^
 ||e.sjuqc.com^
 ||e.sogou.com^
 ||e.stat.ykimg.com^
@@ -25231,6 +25225,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||eblastengine.com^
 ||eblastengine.upickem.net^
 ||eblsfzgvoep.com^
+||ebocornac.com^
 ||ebook.meizu.com^
 ||ebook.res.meizu.com^
 ||ebosseraient.xyz^
@@ -25505,7 +25500,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||egozne.cn^
 ||egrettyjokilin.info^
 ||egroacho.com^
-||egxjmlqmiamm.com^
 ||egxlbyokjk.com^
 ||eharmony.com.au^
 ||ehnjtmqchrub.com^
@@ -25563,6 +25557,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||elathalobolo.com^
 ||elauciju.com^
 ||elbowlullworn.com^
+||elder-dragon.tracklol.com^
 ||eldergale.com^
 ||eldestcontribution.com^
 ||eleastsessm.space^
@@ -25623,6 +25618,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||elqact.gartner.com^
 ||elqapp.spectrum.com^
 ||elqjourney.pwc.com^
+||elqsjecdav.com^
 ||elqtracking.capella.edu^
 ||elqtracking.flexera.com^
 ||elqtracking.hitachi-powergrids.com^
@@ -26114,7 +26110,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||esuzm.cn^
 ||eswaterialw.top^
 ||esyzdb.com^
-||eszkrcviokckfb.com^
 ||et-code.ru^
 ||et.nytimes.com^
 ||et.tanx.com^
@@ -27181,7 +27176,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||flexpod.ynsecureserver.net^
 ||fliedridgin.com^
 ||flighty.cn/images/
-||flightzy.*^
 ||flipf.cn^
 ||fliplotincreasingly.com^
 ||flipp.com^
@@ -27880,6 +27874,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||g8913795075.co^
 ||g8cp5djk1j0r.com^
 ||g8f.ifeng.com^
+||g8waw1.cn^
 ||g9111879410.co^
 ||ga-analytics.com^
 ||ga-beacon.appspot.com^
@@ -28749,6 +28744,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||goajuzey.com^
 ||goalebim.com^
 ||goals.rusingh.com^
+||goasrv.com^
 ||goatcounter.com^
 ||goawayn0w.com^
 ||gobali.cn^
@@ -28902,6 +28898,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||governrecycling.com^
 ||govertedlice.club^
 ||goverua.com^
+||govgaungzhou.cn^
 ||govgift.com^
 ||govhunan.cn^
 ||goviral-content.com^
@@ -28924,7 +28921,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gpsecureads.com^
 ||gpshk.cc/api.php?mod=ad&
 ||gpxz.com/js2/
-||gpydym.cn^
 ||gqdvsvt.cn^
 ||gqjyzoqme.com^
 ||gqqdlckj8y.com^
@@ -29270,7 +29266,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gweini.com^
 ||gwmtracking.com^
 ||gwoyrhpjeloo.com^
-||gwpjvfqeui.com^
 ||gwwhheahisrtld.com^
 ||gwylm.com^
 ||gx.idg.se^
@@ -29290,7 +29285,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gxklsftz.cn^
 ||gxkyl.com^
 ||gxmbr.cn^
-||gxmjjxyyljtyf.com^
 ||gxnews.com.cn/upload/index/*.swf
 ||gxordgtvjr.com^
 ||gxqrjjcsyh.com^
@@ -29559,6 +29553,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||haoyiwang.net^
 ||haoyiwang.net^$third-party
 ||haoyoushuo.cn^
+||haoyundm.com^
 ||haozhuangji.com^
 ||haphazarddrunk.com^
 ||hapic1.zhuangxiu22.com^
@@ -29826,6 +29821,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hentaifap.land^
 ||hentaigold.net^
 ||henzhuan.com^
+||hepburn.net.cn^
 ||hepsandminawas.pro^
 ||hequentsevent.club^
 ||heraldintimidatestipulate.com^
@@ -30223,6 +30219,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hocgeese.com^
 ||hockeymusclebanged.com^
 ||hockeystack.com^
+||hodlers.party^
 ||hoemasfat.site^
 ||hogyp.com^
 ||hoistchart.com^
@@ -30545,6 +30542,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||huatuo.weiyun.com^
 ||huaxinxunye.cn^
 ||huayange.com^
+||huayangli.cn^
 ||huayi65.com^
 ||huayiav.cn^
 ||hub.com.pl^
@@ -30653,7 +30651,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||huzhanbin.cn^
 ||hvato.info^
 ||hvawrj8yeqru.com^
-||hvie6u.cn^
 ||hvrhgt.the-sun.com^
 ||hvrhgt.thesun.co.uk^
 ||hvrhgt.thesun.ie^
@@ -30677,7 +30674,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hxlif.com^
 ||hxlover.com^
 ||hxlswibowjf.com^
-||hxnamjcrawpe.com^
 ||hxnzyy.com^
 ||hxqu.com^
 ||hxsame.hexun.com^
@@ -30973,7 +30969,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ideliv.net^
 ||idelv.net^
 ||ideng.com^
-||identads.com^
 ||identificationralphrefuel.com^
 ||identified.cn^
 ||identifyluckyexactly.com^
@@ -31013,7 +31008,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ieeod0.com^$popup
 ||ieforex.com/r/cms/www/red/red2/images/*0.
 ||iehmuc.decorino.ro^
-||ieju.zgtwpscw.cn^
 ||iendoo.com^
 ||ienkdaccessible.cn^
 ||ienkdago.cn^
@@ -31867,7 +31861,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||info/js/alls_foot.js
 ||info/js/alls_top.js
 ||info/topjs/
-||info4.a7.org^
 ||infoaction.mimakiusa.com^
 ||infobabo.*/da.aspx
 ||infobbs.xyz^
@@ -31905,7 +31898,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ingameads.gameloft.com^
 ||ingenioustech.biz^
 ||ingoinghitchstick.com^
-||ingorob.com^
 ||ingratitudedaintyblockade.com^
 ||inhe.*/Uploadfiles/adpublish
 ||inhe.net/Uploadfiles/inhegg2016/
@@ -32576,6 +32568,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jacklm1.com^
 ||jacklm2.com^
 ||jacobeshort.pro^
+||jacquelinelaura.com^
 ||jadcenter.com^
 ||jadeitite.com^
 ||jads.co^
@@ -32602,6 +32595,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||japheth.com.cn^
 ||japps.cn^
 ||japsulsa.com^
+||japveny.ru^
 ||jarailso.com^
 ||jarproducercane.com^
 ||jas.indeednps.com^
@@ -33019,6 +33013,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jjz666.cn^
 ||jk939.com^
 ||jke1.jianke.com^
+||jkgnplk.cn^
 ||jkgrczjllhq.com^
 ||jkjjkj.top
 ||jkleosnfjutme.top^
@@ -33163,7 +33158,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jqdkoslwjtn.com^
 ||jqk72ugyl2pz.com^
 ||jqki.cn^
-||jqmrqgaunex.ru^
 ||jqmt.qq.com^
 ||jqsex.com^
 ||jquery-cdn.download^
@@ -33425,6 +33419,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||juricts.xyz^
 ||juroudaw.com^
 ||jursp.com^
+||jurty.ml^
 ||jurtym.cf^
 ||jurysatisfy.com^
 ||jus.198dh.cn:811^
@@ -33490,7 +33485,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jwplayer.space^
 ||jwt8e5vzc1.com^
 ||jwvwak1a.com^
-||jwwhsqz.ru^
 ||jwz.3conline.com^
 ||jx.618g.com/js/tongji.js$domain=jx.618g.com
 ||jx.cn^$third-party
@@ -33784,6 +33778,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kemperare.club^
 ||kendingfa.com^
 ||kenduktur.com^
+||kenfeeask.com^
 ||kennetting.club^
 ||kenskitscurt.com^
 ||keoofp.gulfnews.com^
@@ -33942,7 +33937,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kjgen.com^
 ||kjhfy.com^
 ||kjkwrmwdyhi.com^
-||kjli.fi^
 ||kjltxn.com^
 ||kjlzt.cn^
 ||kjrjvvxcg.com^
@@ -34006,7 +34000,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kmuvaerfumy.com^
 ||kmwqxqh.com^
 ||kn.bjbrtc.com^
-||kn.qqqmdq.com^
 ||kn.tzsmab.cn^
 ||kn.zzdahan.com^
 ||knb.hlgmsy.com^
@@ -34611,7 +34604,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||learningaware.com^
 ||learnshaw.info^
 ||lease.leasevergelijker.nl^
-||leastersmiled.pro^
 ||leavilysover.site^
 ||lebilui.ru^
 ||lebkeresxa.ml^
@@ -34741,7 +34733,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lf-hl.snssdk.com/*/article/information/
 ||lf-hl.snssdk.com/search/suggest^
 ||lf-hl.snssdk.com/ugc/publish^
-||lfcepgb.cn^
 ||lfdydk.com^
 ||lfendascra.club^
 ||lfg5jnbi.com^
@@ -35206,6 +35197,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lk1mft33pj2f.com^
 ||lkddksjgih.com^
 ||lkdvvxvtsq6o.com^
+||lkiiwoxjfovcga.com^
 ||lkluoz.saraceniwines.com^
 ||lkme.cc^
 ||lknbffkv.com^
@@ -35697,6 +35689,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||luhtb.top^
 ||lululu.icu/ad
 ||lulumao.com.cn^
+||lumanajaska.ml^
 ||lumatag.co.uk^
 ||lumberamount.com^
 ||lumcarring.fun^
@@ -35950,7 +35943,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||m.bsnnk.com^
 ||m.cdxtny.cn^
 ||m.cenrs.com^
-||m.cepga.cn^
 ||m.chenhuia.com^
 ||m.chenhuixsb.com/js/foot.js
 ||m.chenhuixsb.com/js/hfz.js
@@ -36035,7 +36027,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||m.j5s9b.cn^
 ||m.jackaow.com^
 ||m.jdhq188.cn^
-||m.jgkto.com^
 ||m.jinhuizhibo.com^
 ||m.jltdbyq.com^
 ||m.joyxv.com^
@@ -36070,7 +36061,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||m.nchet.com^
 ||m.nejup.com^
 ||m.nkjfzq43034.cn^
-||m.nmmdzq.cn^
 ||m.ocenp.com^
 ||m.openv.tv^
 ||m.ourlj.com^
@@ -36100,7 +36090,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||m.sdaih.com^
 ||m.sewxi.com^
 ||m.sfscooter.cn^
-||m.sgltc.cn^
 ||m.shilian168.cn^
 ||m.shwedar.com.cn^
 ||m.simba.taobao.com^
@@ -36148,7 +36137,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||m.yanyankj.com^
 ||m.ybstwl.com/public/tpl/m2/js/
 ||m.yes.youku.com^
-||m.yiere.com^
 ||m.yingchengtou.com^
 ||m.yse1234.com/template/phone/imagess/sdfwef.js
 ||m.yuyouge.com^
@@ -36160,7 +36148,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||m.zineworm.com^
 ||m.zosue.cn^
 ||m.zowmgxpz.cn^
-||m.zu08e.cn^
 ||m.zwda.com^
 ||m.zwdu.com^
 ||m06nev.com^
@@ -36242,6 +36229,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||madbanner.com^
 ||madcpms.com^
 ||madhouse.cn^
+||madisonjamesphotography.com^
 ||madisonlogic.com^
 ||madmanbears.com^
 ||madmen.alastonsuomi.com^
@@ -36257,6 +36245,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mafvijpjsaz.com^
 ||magedu.com/wp-content/uploads/*/xwzx
 ||magic-future.com^
+||magic-stick.trackdota.com^
 ||magicianoptimisticbeard.com^
 ||magictreehouse.cn^
 ||magicwindow.cn^
@@ -36324,7 +36313,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||malharpossible.pro^
 ||malharvoice.pro^
 ||mali4blat.com^
-||malictuiar.com^
 ||malinesmanses.com^
 ||maling.dn.no^
 ||maling.ue.dn.no^
@@ -37446,6 +37434,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||message.meitu.com^
 ||messengerpeople.com^
 ||mesucces.top^
+||met.vgwort.de^
 ||met1.hp.com^
 ||met2.hp.com^
 ||meta.video.qiyi.com^
@@ -38161,6 +38150,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mohecm.com^
 ||mohini-ger.com^
 ||moji.com/ad^
+||mojigaga.com^
 ||mojiva.com^
 ||mojoaffiliates.com^
 ||mokonocdn.com^
@@ -38831,6 +38821,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||n3x7.xyz^
 ||n6mnw8jaldqe.com^
 ||n74s9.com^
+||n8n7.me^
 ||n9nedegrees.com^
 ||na7.cc
 ||naayna.com^
@@ -39146,7 +39137,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||neurishot.info^
 ||neuronales.xyz^
 ||neuroticthinner.com^
-||never.ovh^
 ||neveralexpect.fun^
 ||neverythin.club^
 ||new-icon.ol-img.com/jslib/ad
@@ -39462,7 +39452,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nj.t.bcsp2p.baidu.com^
 ||njcyfpv.cn^
 ||njcyt.com^
-||njd.tzxianghao.cn^
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
 ||njdijiani.com^
 ||njfqnenfifdy.com^
@@ -39775,6 +39764,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nsstatic.com^
 ||nsstatic.net^
 ||nsteq.queensland.com^
+||nster.net^
 ||nsternsc.top^
 ||nstracking.com^
 ||nstructhow.top^
@@ -39964,14 +39954,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||o.xbox.com^
 ||o091i.com^
 ||o1.jyjyj.cn^
-||o12zs3u2n.com^
 ||o2live.com^
 ||o2o.api.xiaomi.com^
 ||o2omobi.com^
 ||o333o.com^
 ||o4uxrk33.com^
 ||o626b32etkg6.com^
-||o6ek91ag15.com^
 ||o7h.net^
 ||o8.hyatt.com^
 ||oa-panther.data.aliyun.com/get_position_info_v
@@ -40067,7 +40055,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||oehqtj.marcyn.com.br^
 ||oei1.gq^
 ||oek7.april-moto.com^
-||oem.cnrghj.cn^
 ||oende.cn^
 ||oesfriences.fun^
 ||oesonx.10000recipe.com^
@@ -40183,6 +40170,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||okead.com^
 ||okeo.ru^
 ||okexysylgzo.ru^
+||okeyletsgo.ml^
 ||okhfyyfgw.com^
 ||okkkk.com^
 ||okm918.com^
@@ -40844,7 +40832,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||oxsng.com^
 ||oxtowerbus.club^
 ||oxtracking.com^
-||oxwwoeukjispema.ru^
 ||oxxvideos.xyz/static/tmp/
 ||oxybe.com^
 ||oxygenpurpleairtight.com^
@@ -40923,6 +40910,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||p.zol.com.cn^
 ||p.zol.com.cn^$script
 ||p0.raasnet.com^
+||p0pm5z.cn^
 ||p0y.cn^
 ||p0y.cn^$image,domain=~ipinyou.com.cn
 ||p0y.cn^*.swf
@@ -41164,7 +41152,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||partnermax.de^
 ||partnermktg.symantec.com^
 ||partners.autotrader.co.uk^
-||partners.badongo.com^
 ||partners.betus.com^
 ||partners.etoro.com^
 ||partners.hostgator.com^
@@ -41184,7 +41171,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||partymidge.com^
 ||partypartners.com^
 ||partypoker.com^
-||parwrite.com^
 ||pas-rahav.com^
 ||pasaigul.com^
 ||pascal1.science^
@@ -41247,7 +41233,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pb.hd.sohu.com.cn^
 ||pb.hd.sohu.com^
 ||pb.i.sogou.com^
-||pb.m.naver.com^
 ||pb.okk123.com^
 ||pb.s3wfg.com^
 ||pb.shuxigua.com^
@@ -41676,7 +41661,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pic*.58cdn.com.cn/brandpic/car^$app=com.ss.android.article.news
 ||pic.0597kk.com^
 ||pic.959.cn/media/js/
-||pic.adver.com.tw^
 ||pic.by175.com^
 ||pic.cnmo-img.com.cn^
 ||pic.ea3w.com^
@@ -42753,7 +42737,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||prudential.distribution.team.prudential.co.uk^
 ||prudenttruthfulcarter.com^
 ||prudsys-rde.de^
-||prxio.github.io^
 ||prxymecb.cn^
 ||pryrhoohs.site^
 ||przucu.elkjop.no^
@@ -43556,7 +43539,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qlaot.com^
 ||qlblpyslxciorl.com^
 ||qling.com^
-||qlisv.siemens6es7.com^
 ||qlitics.com^
 ||qloved.cn^
 ||qlpwqpvuw.com^
@@ -43579,6 +43561,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qndown.com^
 ||qneit.com^
 ||qngqlrxscxlvh.com^
+||qnpov.cn^
 ||qnsb.com/news/index.php?m=poster&
 ||qnsr.com^
 ||qnvljz.info^
@@ -43635,7 +43618,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qq937.com^
 ||qqcf.com/js/Content_Get.js
 ||qqcyl123.com/js/*.html
-||qqdalrqzvukzto.com^
 ||qqdashabi.top^
 ||qqddc.com/homeSite/news/js/newsad.js
 ||qqdflf.lpga.or.jp^
@@ -43700,7 +43682,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qtmojo.cn^
 ||qtmojo.com^
 ||qtorzy.mothercare.ae^
-||qtpb.12jf3.cn^
 ||qttbfdygj.com^
 ||qttmjwno.com^
 ||quadran.eu^
@@ -43805,6 +43786,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qwddcwmwqiqwd20.cn^
 ||qwddcwmwqiqwd21.cn^
 ||qwe.jzpxyd.com^
+||qweoc88123.top^
 ||qwerfdx.com^
 ||qwerq133.xyz^
 ||qwertize.com^
@@ -43883,7 +43865,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||r023m83skv5v.com^
 ||r1.ykimg.com^$app=com.huawei.hwvplayer.youku
 ||r1ztni.oui.sncf^
-||r2.tschewang.com^
 ||r24-tech.com^
 ||r3sub.com/images/ccc/
 ||r3sub.com/posters/0069810.jpg
@@ -44039,6 +44020,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||razwrite.com^
 ||rbc.magna.ru^
 ||rbis-solutions.averydennison.com^
+||rbkshort.info^
 ||rbmry.com^
 ||rbnt.org^
 ||rbnwacsf.com^
@@ -45226,7 +45208,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||s.jpush.cn^
 ||s.krzyzanowskim.com^
 ||s.l8l9.com^
-||s.maipubao.cn^
 ||s.mannes.tech^
 ||s.maxrozen.com^
 ||s.mt145.com^
@@ -46160,6 +46141,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||semnicneposilejte.cz^
 ||sempcxjajh.com^
 ||semtracker.de^
+||sen-to-zdrowie.ml^
 ||send-news.net^
 ||sendmepush.com^
 ||sendptp.com^
@@ -46411,7 +46393,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||shankejingling.com^
 ||shannon-porject.com^
 ||shanprint.com^
-||shanta-jos.com^
 ||shantelope.com^
 ||shanxiyizhao.com^
 ||shanyi.info^
@@ -46527,6 +46508,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||shionmanc.club^
 ||shippinginsights.com^
 ||shiptoud.com^
+||shirleyyean.com^
 ||shitiphu.com^
 ||shiverconventwilful.com^
 ||shiyanlou.com/img/shiyanlou-
@@ -47496,6 +47478,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sonobi.com^
 ||sonsang.cn^
 ||sonsitself.com^
+||soodatmish.com^
 ||soofeest.net^
 ||soonbigo.com^
 ||sooopu.com/asphtml/plnew.
@@ -47674,7 +47657,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sp.visaliatimesdelta.com^
 ||sp.wausaudailyherald.com^
 ||sp.wisconsinrapidstribune.com^
-||sp.wndoor.com^
 ||sp.ydr.com^
 ||sp.yorkdispatch.com^
 ||sp.zanesvilletimesrecorder.com^
@@ -47877,7 +47859,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sqxst.com$third-party
 ||sqyueda.com^
 ||srbnxr.blair.com^
-||src.duanxin520.com^
 ||src.leju.com^
 ||src.zf313.com^
 ||srcip.com^
@@ -49321,7 +49302,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||svr007phz.com^
 ||svsub.com^
 ||svtrd.com^
-||svuyfmzsxmjwa.com^
 ||svyksa.info^
 ||sw.mobile.sogou.com^
 ||sw1block.com^
@@ -49958,7 +49938,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tawdryson.com^
 ||tawk.to^
 ||taxel.jp^
-||tazm9p7tso.trade^
 ||tb.code.twyxi.com^
 ||tb1.bdstatic.com/??/tb/_/game_iframe_common_$script
 ||tb1.bdstatic.com/??/tb/_/game_rank_in_head_$script
@@ -50029,7 +50008,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tdc.qq.com^
 ||tdcoincore.org^
 ||tddmp.com^
-||tdeilxkjxgdedb.com^
 ||tdep.bunzlonline.nl^
 ||tdep.garmundo.de^
 ||tdep.garmundo.nl^
@@ -50266,6 +50244,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||testnet.nl^
 ||tesvitewbrl.com^
 ||tetfer.com^
+||tethered-realms.valorbuff.com^
 ||tetigi.com^
 ||tetonashentai.com/wp-$script
 ||tetoolbox.com^
@@ -51435,7 +51414,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||traffbiz.ru^
 ||traffboost.net^
 ||traffer.net^
-||traffic-gate-service.info^
 ||traffic-in.com^
 ||traffic-media.co.uk^
 ||traffic-media.co^
@@ -51579,7 +51557,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tree-pixel-log.s3.amazonaws.com^
 ||treezip.baofeng.net/iteminfo_xml
 ||trejar.com^
-||trekmedia.net^
 ||treksol.net^
 ||trellian.com^
 ||tremorhub.com^
@@ -51753,7 +51730,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ts9.cc
 ||tsa.taxslayer.com^
 ||tsandycateup.com^
-||tsaqimvbfiv.com^
 ||tsbluebox.com^
 ||tscarbornonnae.info^
 ||tscounter.com^
@@ -51957,7 +51933,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tvbwind.com/Public/90tvb/js/tvbwind.js
 ||tveszimawy.com^
 ||tvf4.com/1/$script
-||tvggnruvmiv.com^
 ||tvjkilgfanpt.com^
 ||tvl8.supdecreation.com^
 ||tvlubtrxcold.com^
@@ -53005,7 +52980,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vcardsdkservice.vivo.com.cn^
 ||vcbn65.xyz^
 ||vcdc.com^
-||vcfnspbgztl.com^
 ||vchim.com^
 ||vchiy.com^
 ||vcmedia.com^
@@ -53129,6 +53103,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vfl81ea28aztw7y3.pro^
 ||vfmfjoknzndbee.com^
 ||vfvdsati.com^
+||vg02h8z1ul.me^
 ||vg74gi6mea.com^
 ||vgao.xyz/images/*.gif
 ||vgazda.krefel.be^
@@ -53139,7 +53114,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vgkknrbzwfau.com^
 ||vgtime.com/game/cover/2019/11/28/191128172002163_u1477.jpg
 ||vgw35hwr4w6x.com^
-||vhktunniggbd.com^
 ||vhlduhrldc.com^
 ||vhldwuv6om.com^
 ||vhmengine.com^
@@ -53148,7 +53122,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vhrbxb.vidaxl.nl^
 ||vhtadetq.com^
 ||vi-serve.com^
-||vi1.ku6img.net^
 ||vi1.souid.com^
 ||vi12x.xcle.cn^
 ||vianadserver.com^
@@ -53378,7 +53351,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vividlobster.com^
 ||vivistats.com^
 ||vivocha.com^
-||vixnixxer.com^
 ||viyouhui.com^
 ||vizaiced.net^
 ||vizisense.net^
@@ -54006,6 +53978,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||webassembly.stream^
 ||webatam.com^
 ||webbc.fivecdm.com^
+||webbridcar.xyz^
 ||webcampromo.com^
 ||webcampromotions.com^
 ||webcaster.pro^
@@ -54233,6 +54206,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||weufdhsas.com^
 ||wew.dushiwenxue.net^
 ||weworkremotely.com^
+||weyyae.com^
 ||wf321.com^
 ||wfaffwshop.xyz^
 ||wfawhfxe.com^
@@ -54272,6 +54246,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||whalepp.com^
 ||whamukoji.pro^
 ||whataboutnews.com^
+||whathyx.com^
 ||whatisuptodaynow.com^
 ||whatsapp-sharing.com^
 ||whatsbroadcast.com^
@@ -54539,7 +54514,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wma.io^
 ||wmbuilr.cn^
 ||wmedia-track.uc.cn^
-||wmemsnhgldd.ru^
 ||wmeng.feihuadns.com^
 ||wmflabs.org^
 ||wmk0099.xyz^
@@ -54719,7 +54693,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wrltxt.com/hello/
 ||wroteadministercurve.com^
 ||wrvdmh.cn^
-||wrxgandsfcz.ru^
 ||ws.audioeye.com^
 ||ws.etuch.cn^
 ||ws.ksmobile.net^
@@ -55004,6 +54977,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wwwbaiducom.xyz/4/js4/
 ||wwwcdn.kimiss.net/btn/
 ||wwwlongjiekejijishu.com^
+||wwwokzyzy.com^
 ||wwwpromoter.com^
 ||wwww.495495.com^
 ||wwww.551144.com^
@@ -55682,6 +55656,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xscmzs.tenki.jp^
 ||xshellcn.com^
 ||xshengyan.com/xxgg/bookll111.js
+||xsjyun.cn^
 ||xsl280.com^
 ||xsl281.com^
 ||xslmpq.ohou.se^
@@ -55767,6 +55742,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xushenghb.com^
 ||xuveiai.ru^
 ||xuxiangkj.com^
+||xuyssur.cn^
 ||xuzhi.net/index.php?m=poster&
 ||xuzhi.net/uploadfile/poster/960x50.jpg
 ||xv98.com/js/daohang
@@ -55899,7 +55875,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||y.da.mgtv.com^
 ||y.gtimg.cn/music/photo/config/qmapiurljson.txt
 ||y.pzclw.cn^
-||y.shuoshuocm.com^
 ||y0o1g.cn^
 ||y1.arte.tv^
 ||y1.spreton.com^
@@ -56519,7 +56494,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ypreferred.com^
 ||ypuxlzxa.com^
 ||ypwpzgld.com^
-||yqaywudifu.date^
 ||yqeuu.com^
 ||yqezqofkb1nnmz.com^
 ||yqgjq.com^
@@ -56868,7 +56842,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zaushegi.net^
 ||zav4gln44kez.com^
 ||zavrotfro.com^
-||zavzlen.ru^
 ||zayac2volk11.com^
 ||zazerygu.pro^
 ||zazhipu.com^
@@ -56975,6 +56948,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zgc66.com^
 ||zgchaye123.com^
 ||zgclmw.cn^
+||zgdfz6h7po.me^
 ||zgfszs.com^
 ||zghs.net.cn^
 ||zgjckgys.com.cn^
@@ -57197,10 +57171,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zj.cn^*/AD?location=
 ||zj66.net^
 ||zjbdt.com^
+||zjemch.ru^
 ||zjg.js.cn/Public/config/Couplet/Index4
 ||zjgfq.com^
 ||zjhim.com^
 ||zjhoudao.com^
+||zjj.xhdccz.com^
 ||zjjzx.cn*/push/
 ||zjksgl.com^
 ||zjkypuacaawx.com^
@@ -57255,6 +57231,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zndsssp.dangbei.net^
 ||znjj.tv/uploadfiles/abi/ad201
 ||znlgplt.com^
+||znnzwdgu.com^
 ||znq9.destinia.mx^
 ||znsv.baidu.cn^
 ||znsv.baidu.com/
@@ -57409,6 +57386,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zunss.com^
 ||zuoche.com/promo/*.jspx
 ||zuopp.com^
+||zuoss.net^
 ||zuowen.hydcd.com^
 ||zuphaims.com^
 ||zurilito.online^
@@ -57475,6 +57453,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zykxjt.com^
 ||zymbrlgu.cn^
 ||zymerget.bid^
+||zymerget.stream^
 ||zymro.com^
 ||zypenetwork.com^
 ||zyq2.destinia.sk^
