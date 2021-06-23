@@ -1,7 +1,7 @@
 name: release
 on:
   schedule:
-    - cron: "0 22 * * *"
+    - cron: "0 22 * * 1"
   watch:
       types: started
   push:
@@ -22,7 +22,6 @@ jobs:
           sudo rm /etc/localtime
           sudo ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
           time=$(date +%Y%m%d%H%M%S)
-          day=$(date +%Y%m%d)
           wget https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt -O 1.txt
           wget https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt -O 2.txt
           cat 1.txt 2.txt | sort -u -o 3.txt
@@ -40,11 +39,11 @@ jobs:
           sed -i "1,2d" ad.txt
           if ! diff -q ad.txt 4.txt; then
           mv 4.txt ad.txt
-          sed -i "1i !version: ${time}" ad.txt
+          sed -i "1i !Version: ${time}" ad.txt
           sed -i "2i !Title: custom adblock list" ad.txt
           git add ad.txt
           git config user.name "771073216"
           git config user.email "771073216@qq.com"
-          git commit -m "$day" -a
+          git commit -m "Version: $time" -a
           git push
           fi
