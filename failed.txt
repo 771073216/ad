@@ -366,7 +366,6 @@
 555b2b.com
 5568.gjghy.com
 55kk.tv
-56.com##.xiu_mm,#appBanner
 563217.com
 565882.com
 5675146.com
@@ -5338,17 +5337,6 @@ pinyoux.com
 pipeline.realtime.active.com
 pipfire.com
 pipilida.com
-pipipan.com##A[class='btn
-btn-yellow
-btn-block']
-pipipan.com##DIV[class='alert
-alert-block
-']
-pipipan.com##IMG[style='width:
-100%;
-margin:
-5px
-0;']
 piratbaypirate.li
 pitatagata.com
 pix.gfycat.com
@@ -6714,7 +6702,6 @@ tumri.net
 tunanchangban.com
 tuwo-audio.cn
 tuwuyppwdj.com
-tv.sohu.com##[width="640"][height="100"],.adv
 tv.ytbctyy.com
 tveszimawy.com
 tvlubtrxcold.com
