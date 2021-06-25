@@ -45,7 +45,7 @@ jobs:
           c=0
           for file in $list; do
           ((c=c+1))
-          echo "$co"
+          echo "$c"
           sed -i "/$file/d" ad.txt
           done
           git add ad.txt
