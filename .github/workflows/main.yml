@@ -39,12 +39,18 @@ jobs:
           sed -i "1,2d" ad.txt
           if ! diff -q ad.txt 4.txt; then
           mv 4.txt ad.txt
+          echo "1"
           sed -i "1i !Version: ${time}" ad.txt
+          echo "2"
           sed -i "2i !Title: custom adblock list" ad.txt
+          echo "3"
           list=$(cat failed.txt)
           for file in $list; do
+          echo "4"
           sed -i "/$file/d" ad.txt
+          echo "5"
           done
+          echo "6"
           git add ad.txt
           git config user.name "771073216"
           git config user.email "771073216@qq.com"
