@@ -42,10 +42,6 @@ jobs:
           sed -i "1i !Version: ${time}" ad.txt
           sed -i "2i !Title: custom adblock list" ad.txt
           python3 1.py
-          #list=$(cat failed.txt)
-          #for file in $list; do
-          #sed -i "/$file/d" ad.txt
-          #done
           mv output.txt ad.txt
           git add ad.txt
           git config user.name "771073216"
