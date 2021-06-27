@@ -41,7 +41,7 @@ jobs:
           mv 4.txt ad.txt
           sed -i "1i !Version: ${time}" ad.txt
           sed -i "2i !Title: custom adblock list" ad.txt
-          python3 1.py
+          python3 del.py
           mv output.txt ad.txt
           git add ad.txt
           git config user.name "771073216"
