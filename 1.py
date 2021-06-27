@@ -16,5 +16,5 @@ def filte_file(from_file, to_file, del_list):
                     file_handle_to.write(row)
   
 if __name__ == '__main__':
-    del_list = read_del_list(r"out.txt")
+    del_list = read_del_list(r"failed.txt")
     filte_file(r"ad.txt", "output.txt", del_list)
