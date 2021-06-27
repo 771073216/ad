@@ -46,6 +46,7 @@ jobs:
           #for file in $list; do
           #sed -i "/$file/d" ad.txt
           #done
+          mv output.txt ad.txt
           git add ad.txt
           git config user.name "771073216"
           git config user.email "771073216@qq.com"
