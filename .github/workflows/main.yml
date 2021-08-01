@@ -9,13 +9,11 @@ on:
       - master
 jobs:
   build:
-    name: Build
+    name: Sync
     runs-on: ubuntu-latest
     steps:
       - name: Checkout out project files
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 1
+        uses: actions/checkout@v2.3.4
 
       - name: Check and release
         run: |
@@ -44,8 +42,8 @@ jobs:
           python3 del.py
           mv output.txt ad.txt
           git add ad.txt
-          git config user.name "771073216"
-          git config user.email "771073216@qq.com"
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "Version: $time" -a
           git push
           fi
