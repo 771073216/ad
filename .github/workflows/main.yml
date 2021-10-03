@@ -4,9 +4,6 @@ on:
     - cron: "0 22 1 * *"
   watch:
       types: started
-  push:
-    branches:
-      - master
 jobs:
   build:
     name: Sync
