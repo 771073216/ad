@@ -10,30 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout out project files
-        uses: actions/checkout@v2.3.4
+        uses: actions/checkout@v2
 
       - name: Check and release
         run: |
           sudo rm /etc/localtime
           sudo ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
           time=$(date +%Y%m%d%H%M%S)
-          wget https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt -O 1.txt
-          wget https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt -O 2.txt
-          cat 1.txt 2.txt | sort -u -o 3.txt
-          sed -i '/^!/d' 3.txt
-          sed -i '/^！/d' 3.txt
-          grep '||' 3.txt | grep -v / | grep -v '\$' |grep -v '*'| awk -F '^' '{print$1}' | uniq -d > out.txt
-          m=$(cat out.txt)
-          for i in $m;do
-          a=$(echo "$i" | tr -d '|')
-          sed -i "/${a}/d" 3.txt
-          echo "${i}^" >> 3.txt
-          done
-          cat custom.txt >> 3.txt
-          sort 3.txt -o 4.txt
-          sed -i "1,2d" ad.txt
-          if ! diff -q ad.txt 4.txt; then
-          mv 4.txt ad.txt
+          curl -sSL https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt > origin.txt
+          curl -sSL https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt >> origin.txt
+          sort -u origin.txt -o sorted.txt
+          sed -i '/^!/d' sorted.txt
+          sed -i '/^！/d' sorted.txt
+          mv sorted.txt ad.txt
           sed -i "1i !Version: ${time}" ad.txt
           sed -i "2i !Title: custom adblock list" ad.txt
           git add ad.txt
@@ -41,4 +30,3 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "Version: $time" -a
           git push
-          fi
