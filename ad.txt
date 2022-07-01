@@ -1,4 +1,4 @@
-!Version: 20220701095307
+!Version: 20220701191407
 !Title: custom adblock list
 ###avshow
 ###ct > div.mn:last-child > div:nth-child(4) > table
@@ -1503,6 +1503,8 @@ bilibili.com##.gg-window > .operate-card
 bilibili.com##.mCS_img_loaded,[class^="gg-"],.adpos,div#b_app_link,div.goto-mobile,[data-id="68"],.live-ad-full,.index-promote,.ad-f,[data-id^="490"],[data-ad-type],.data-id-ad,.ad-e1
 bing.com###BottomAppPro
 bing.com##DIV.sb_adsNv2,li.b_ad,div.OpInNwWndw
+bing.com##img.b_adChoice
+bing.com##li.ad_sc
 biqudao.com##.dahengfu,.con_ad
 biqulou.net##.dahengfu
 biqushu.com##.adlist
