@@ -19,6 +19,7 @@ jobs:
           time=$(date +%Y%m%d%H%M%S)
           curl -sSL https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt > origin.txt
           curl -sSL https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt >> origin.txt
+          cat custom.txt >> origin.txt
           sort -u origin.txt -o sorted.txt
           sed -i '/^!/d' sorted.txt
           sed -i '/^！/d' sorted.txt
