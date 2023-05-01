@@ -17,7 +17,9 @@ jobs:
           sudo rm /etc/localtime
           sudo ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
           time=$(date +%Y%m%d%H%M%S)
+          # https://github.com/privacy-protection-tools/anti-AD
           curl -sSL https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt > origin.txt
+          # https://github.com/banbendalao/ADgk
           curl -sSL https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt >> origin.txt
           cat custom.txt >> origin.txt
           sort -u origin.txt -o sorted.txt
