@@ -1,3 +1,1 @@
-bing.com##img.b_adChoice
-bing.com##li.ad_sc
-bing.com##DIV#bnp_container
+bing.com##.ad_sc
