@@ -1,4 +1,4 @@
-!Version: 20230531142331
+!Version: 20230531144340
 !Title: custom adblock list
 /^(\S+\.)?(webstats?|swebstats?|mywebstats?)\./
 /^(\S+\.)?11599[\da-z]{2,20}\.com$/
